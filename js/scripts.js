@@ -6,5 +6,6 @@ const app = new Vue ({
     el: '#root',
     data: {
         title: 'Prova',
+        imageUrl: 'https://velvetgossip.it/wp-content/uploads/2020/06/mr-bean.jpg',
     }
 });
